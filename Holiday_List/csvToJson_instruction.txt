@@ -1,0 +1,51 @@
+1. convert to csv -> http://www.csvjson.com/csv2json [auto-detect, check parse numbers, output Array]
+2.Find: 
+******
+  ,
+    "Holiday": ""
+  },
+  {
+    "Date": "DATE",
+    "Holiday": "HOLIDAY"
+  },
+************
+
+Replace: 
+
+*******
+:
+[
+*******
+
+3.Find:
+*********
+,
+  {
+    "date": "_
+************
+
+REPLACE:
+*********
+
+],
+
+"
+*********
+
+4.FIND:
+*******
+[
+  {
+    "Date": "_Tamil Nadu",
+    "Holiday": ""
+  },
+********
+
+REPLACE:
+*******
+{
+"Tamil Nadu":
+[
+*******
+
+4. In end add **** } ***

@@ -1,0 +1,2598 @@
+{
+  "Tamil Nadu": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Year's Day"
+    },
+    {
+      "date": "14-Jan",
+      "holiday": "Pongal"
+    },
+    {
+      "date": "16-Jan",
+      "holiday": "Thiruvalluvar Day"
+    },
+    {
+      "date": "17-Jan",
+      "holiday": "Uzhavar Tirunal"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "18-Mar",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Tamil New Year"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "18-Oct",
+      "holiday": "Ayudha Puja"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "20-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Andhra pradesh": [
+    {
+      "date": "14-Jan",
+      "holiday": "Sankranti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "18-Mar",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "25-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "17-Oct",
+      "holiday": "Durgastami"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "20-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Year's Day"
+    },
+    {
+      "date": "14-Jan",
+      "holiday": "Pongal"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Bohag Bihu"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Assam": [
+    {
+      "date": "14-Jan",
+      "holiday": "Sankranti"
+    },
+    {
+      "date": "23-Jan",
+      "holiday": "Netaji Subhas Chandra Bose Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "31-Jan",
+      "holiday": "Me-dam-me-phi"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "13-Apr",
+      "holiday": "Bohag Bihu Holiday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Bohag Bihu"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "16-Oct",
+      "holiday": "Maha Saptami"
+    },
+    {
+      "date": "17-Oct",
+      "holiday": "Durgastami"
+    },
+    {
+      "date": "18-Oct",
+      "holiday": "Navami of Durga Puja"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Kali Puja"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Chhath Puja"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    }
+  ],
+  "Bihar": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "22-Mar",
+      "holiday": "Bihar Divas"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "01-Apr",
+      "holiday": "Bank Holiday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Ashoka's Birth Anniversary"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "18-Oct",
+      "holiday": "Mahanavami"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Chhath Puja"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "04-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "17-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "19-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "05-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "12-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "24-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "10-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "08-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "27-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "10-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "12-Nov",
+      "holiday": "Guru Nanak Birthday"
+    }
+  ],
+  "Delhi": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "24-Oct",
+      "holiday": "Maharishi Valmiki Birthday"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "20-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Gujarat": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "21-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    }
+  ],
+  "Goa": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Haryana": [
+    {
+      "date": "22-Jan",
+      "holiday": "Vasant Panchami"
+    },
+    {
+      "date": "24-Jan",
+      "holiday": "Sir Chhotu Ram Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "10-Feb",
+      "holiday": "Maharshi Dayanand Saraswati Jayanti"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Guru Ravidas Birthday"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Shaheedi Diwas of Bhagat Singh, Rajguru & Sukhdev"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Vaisakhi"
+    },
+    {
+      "date": "18-Apr",
+      "holiday": "Parashurama Jayanti"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "16-Jun",
+      "holiday": "Maharana Pratap Jayanti"
+    },
+    {
+      "date": "28-Jun",
+      "holiday": "Sant Guru Kabir Jayanti"
+    },
+    {
+      "date": "31-Jul",
+      "holiday": "Martyrdom Day of Shaheed Udham Singh"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Teej"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "10-Oct",
+      "holiday": "Maharaja Agrasen Jayanati"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "24-Oct",
+      "holiday": "Maharishi Valmiki Birthday"
+    },
+    {
+      "date": "01-Nov",
+      "holiday": "Haryana Day"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "08-Nov",
+      "holiday": "Vishvakarma Day"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Chhath Puja"
+    },
+    {
+      "date": "21-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    },
+    {
+      "date": "26-Dec",
+      "holiday": "Shaheed Udham Singh's Birthday"
+    }
+  ],
+  "Himachal Pradesh": [
+    {
+      "date": "25-Jan",
+      "holiday": "Statehood Day"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Guru Ravidas Birthday"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Himachal Day"
+    },
+    {
+      "date": "18-Apr",
+      "holiday": "Parashurama Jayanti"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "16-Jun",
+      "holiday": "Maharana Pratap Jayanti"
+    },
+    {
+      "date": "28-Jun",
+      "holiday": "Sant Guru Kabir Jayanti"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "24-Oct",
+      "holiday": "Maharishi Valmiki Birthday"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "23-Nov",
+      "holiday": "Guru Nanak Birthday"
+    }
+  ],
+  "Jammu and Kashmir": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "21-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "01-Jul",
+      "holiday": "Jumat-ul-Wida"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Jharkhand": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Karnataka": [
+    {
+      "date": "14-Jan",
+      "holiday": "Sankranti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "18-Mar",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Basava Jayanthi"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "09-Oct",
+      "holiday": "Mahalaya"
+    },
+    {
+      "date": "18-Oct",
+      "holiday": "Ayudha Puja"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "24-Oct",
+      "holiday": "Maharishi Valmiki Birthday"
+    },
+    {
+      "date": "01-Nov",
+      "holiday": "Kannada Rajyothsava"
+    },
+    {
+      "date": "06-Nov",
+      "holiday": "Narak Chaturdashi"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "20-Nov",
+      "holiday": "Id-e-Milad"
+    }
+  ],
+  "Kerala": [
+    {
+      "date": "02-Jan",
+      "holiday": "Mannam Jayanthi"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Maundy Thursday"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Vishu"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "16-May",
+      "holiday": "Public Holiday"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "02-Aug",
+      "holiday": "Karkkadaka Vavu"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "24-Aug",
+      "holiday": "Sreekrishna Jayanthi"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "First Onam"
+    },
+    {
+      "date": "14-Sep",
+      "holiday": "Thiruvonam"
+    },
+    {
+      "date": "15-Sep",
+      "holiday": "Third Onam"
+    },
+    {
+      "date": "16-Sep",
+      "holiday": "Sree Narayana Guru Jayanti"
+    },
+    {
+      "date": "16-Sep",
+      "holiday": "Fourth Onam"
+    },
+    {
+      "date": "21-Sep",
+      "holiday": "Sree Narayana Guru Samadhi"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "10-Oct",
+      "holiday": "Mahanavami"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Vijaya Dashami"
+    },
+    {
+      "date": "29-Oct",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "06-Dec",
+      "holiday": "Public Holiday"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Madhya Pradesh": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "21-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "18-Aug",
+      "holiday": "Raksha Bandhan"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "13-Dec",
+      "holiday": "Id-e-Milad"
+    }
+  ],
+  "Maharashtra": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "19-Feb",
+      "holiday": "Chhatrapati Shivaji Maharaj Jayanti"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "08-Apr",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "Maharashtra Day"
+    },
+    {
+      "date": "21-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "17-Aug",
+      "holiday": "Parsi New Year"
+    },
+    {
+      "date": "05-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Bakrid"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "31-Oct",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    }
+  ],
+  "Manipur": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Meghalaya": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Mizoram": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Nagaland": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Odisha": [
+    {
+      "date": "23-Jan",
+      "holiday": "Netaji Subhas Chandra Bose Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "12-Feb",
+      "holiday": "Vasant Panchami"
+    },
+    {
+      "date": "05-Mar",
+      "holiday": "Panchayati Raj Diwas"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "09-Mar",
+      "holiday": "Solar Eclipse"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "01-Apr",
+      "holiday": "Odisha Day"
+    },
+    {
+      "date": "13-Apr",
+      "holiday": "Maha Vishuba Sankranti"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "14-Jun",
+      "holiday": "Pahili Raja"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Raja Sankranti"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Ratha Yatra"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "24-Aug",
+      "holiday": "Sreekrishna Jayanthi"
+    },
+    {
+      "date": "05-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "06-Sep",
+      "holiday": "Nuakhai"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Bakrid"
+    },
+    {
+      "date": "30-Sep",
+      "holiday": "Mahalaya"
+    },
+    {
+      "date": "08-Oct",
+      "holiday": "Maha Saptami"
+    },
+    {
+      "date": "09-Oct",
+      "holiday": "Durgastami"
+    },
+    {
+      "date": "10-Oct",
+      "holiday": "Mahanavami"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Vijaya Dashami"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Durga Puja"
+    },
+    {
+      "date": "15-Oct",
+      "holiday": "Lakshmi Puja"
+    },
+    {
+      "date": "29-Oct",
+      "holiday": "Kali Puja"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Rasa Purnima"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Punjab": [
+    {
+      "date": "16-Jan",
+      "holiday": "Guru Gobind Singh Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "28-Jan",
+      "holiday": "Birthday of Lala Lajpat Rai"
+    },
+    {
+      "date": "12-Feb",
+      "holiday": "Vasant Panchami"
+    },
+    {
+      "date": "22-Feb",
+      "holiday": "Guru Ravidas Birthday"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Shahidi Divas S. Bhagat Singh Ji"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "13-Apr",
+      "holiday": "Vaisakhi"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "09-May",
+      "holiday": "Parashurama Jayanti"
+    },
+    {
+      "date": "08-Jun",
+      "holiday": "Guru Arjun Dev Martyrdom day"
+    },
+    {
+      "date": "20-Jun",
+      "holiday": "Sant Guru Kabir Jayanti"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "31-Jul",
+      "holiday": "Martyrdom Day of Shaheed Udham Singh"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "02-Sep",
+      "holiday": "Parkash Utsav Sri Guru Granth Sahib Ji"
+    },
+    {
+      "date": "10-Sep",
+      "holiday": "Birthday of Baba Sri Chand Ji"
+    },
+    {
+      "date": "28-Sep",
+      "holiday": "Birthday of S. Bhagat Singh Ji"
+    },
+    {
+      "date": "28-Sep",
+      "holiday": "Birthday of S. Bhagat Singh Ji"
+    },
+    {
+      "date": "01-Oct",
+      "holiday": "Maharaja Agrasen Jayanati"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "16-Oct",
+      "holiday": "Maharishi Valmiki Birthday"
+    },
+    {
+      "date": "17-Oct",
+      "holiday": "Parkash Gurpurab of Sri Guru Ram Dass Ji"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "31-Oct",
+      "holiday": "Vishvakarma Day"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "04-Dec",
+      "holiday": "Martyrdom Day of Sri Guru Teg Bahadur Ji"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "date": "16-Jan",
+      "holiday": "Guru Gobind Singh Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Shahidi Divas S. Bhagat Singh Ji"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "18-Aug",
+      "holiday": "Raksha Bandhan"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "01-Oct",
+      "holiday": "Maharaja Agrasen Jayanati"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "31-Oct",
+      "holiday": "Vishvakarma Day"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "13-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Sikkim": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "14-Jan",
+      "holiday": "Pongal"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "09-Feb",
+      "holiday": "Losar"
+    },
+    {
+      "date": "09-Feb",
+      "holiday": "Sonam Lhochar"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "16-May",
+      "holiday": "State Day"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Vijaya Dashami"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Durga Puja"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Telangana": [
+    {
+      "date": "01-Jan",
+      "holiday": "New Years Day"
+    },
+    {
+      "date": "14-Jan",
+      "holiday": "Bhogi"
+    },
+    {
+      "date": "15-Jan",
+      "holiday": "Sankranti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "02-Feb",
+      "holiday": "Public Holiday"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "05-Apr",
+      "holiday": "Babu Jagjivan Ram Birthday"
+    },
+    {
+      "date": "08-Apr",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "08-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "01-Aug",
+      "holiday": "Bonalu"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "05-Sep",
+      "holiday": "Ganesh Chaturthi"
+    },
+    {
+      "date": "13-Sep",
+      "holiday": "Bakrid"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "09-Oct",
+      "holiday": "Durgastami"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Vijaya Dashami"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    },
+    {
+      "date": "26-Dec",
+      "holiday": "Boxing Day"
+    }
+  ],
+  "Tripura": [
+    {
+      "date": "23-Jan",
+      "holiday": "Netaji Subhas Chandra Bose Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "12-Feb",
+      "holiday": "Vasant Panchami"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "13-Apr",
+      "holiday": "Biju Festival"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Bengali New Year"
+    },
+    {
+      "date": "20-Apr",
+      "holiday": "Garia Puja"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "08-May",
+      "holiday": "Birthday of Rabindra Nath Tagore"
+    },
+    {
+      "date": "21-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "25-May",
+      "holiday": "Birthday of Kazi Nazrul Islam"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "12-Jul",
+      "holiday": "Kharchi Puja"
+    },
+    {
+      "date": "26-Jul",
+      "holiday": "Ker Puja"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "30-Sep",
+      "holiday": "Mahalaya"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "10-Oct",
+      "holiday": "Navami of Durga Puja"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Vijaya Dashami"
+    },
+    {
+      "date": "13-Oct",
+      "holiday": "Durga Puja Holiday"
+    },
+    {
+      "date": "14-Oct",
+      "holiday": "Durga Puja Holiday"
+    },
+    {
+      "date": "15-Oct",
+      "holiday": "Lakshmi Puja"
+    },
+    {
+      "date": "29-Oct",
+      "holiday": "Deepavali"
+    },
+    {
+      "date": "03-Dec",
+      "holiday": "World Disabled Day"
+    },
+    {
+      "date": "13-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "01-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "02-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "18-Mar",
+      "holiday": "Ugadi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "29-Mar",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "30-Mar",
+      "holiday": "Hazrat Alis Birthday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "18-Apr",
+      "holiday": "Parashurama Jayanti"
+    },
+    {
+      "date": "29-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "15-Jun",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "22-Aug",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "26-Aug",
+      "holiday": "Raksha Bandhan"
+    },
+    {
+      "date": "03-Sep",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "20-Sep",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "19-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Chhath Puja"
+    },
+    {
+      "date": "21-Nov",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "Uttarakhand": [
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "07-Mar",
+      "holiday": "Maha Shivratri"
+    },
+    {
+      "date": "24-Mar",
+      "holiday": "Holi"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "15-Apr",
+      "holiday": "Ram Navami"
+    },
+    {
+      "date": "19-Apr",
+      "holiday": "Mahavir Jayanti"
+    },
+    {
+      "date": "21-May",
+      "holiday": "Buddha Purnima"
+    },
+    {
+      "date": "01-Jul",
+      "holiday": "Jumat-ul-Wida"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "18-Aug",
+      "holiday": "Raksha Bandhan"
+    },
+    {
+      "date": "25-Aug",
+      "holiday": "Janmashtami"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "30-Oct",
+      "holiday": "Deewali"
+    },
+    {
+      "date": "07-Nov",
+      "holiday": "Chhath Puja"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "12-Dec",
+      "holiday": "Id-e-Milad"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ],
+  "West Bengal": [
+    {
+      "date": "12-Jan",
+      "holiday": "Birthday of Swami Vivekananda"
+    },
+    {
+      "date": "23-Jan",
+      "holiday": "Netaji Subhas Chandra Bose Jayanti"
+    },
+    {
+      "date": "26-Jan",
+      "holiday": "Republic Day"
+    },
+    {
+      "date": "13-Feb",
+      "holiday": "Sree Panchami"
+    },
+    {
+      "date": "23-Mar",
+      "holiday": "Doljatra"
+    },
+    {
+      "date": "25-Mar",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Bengali New Year"
+    },
+    {
+      "date": "14-Apr",
+      "holiday": "Dr Ambedkar Jayanti"
+    },
+    {
+      "date": "01-May",
+      "holiday": "May Day"
+    },
+    {
+      "date": "08-May",
+      "holiday": "Birthday of Rabindra Nath Tagore"
+    },
+    {
+      "date": "06-Jul",
+      "holiday": "Idul Fitr"
+    },
+    {
+      "date": "07-Jul",
+      "holiday": "Ramzan"
+    },
+    {
+      "date": "15-Aug",
+      "holiday": "Independence Day"
+    },
+    {
+      "date": "12-Sep",
+      "holiday": "Idul Juha"
+    },
+    {
+      "date": "30-Sep",
+      "holiday": "Mahalaya"
+    },
+    {
+      "date": "02-Oct",
+      "holiday": "Mahatma Gandhi Birthday"
+    },
+    {
+      "date": "08-Oct",
+      "holiday": "Maha Saptami"
+    },
+    {
+      "date": "08-Oct",
+      "holiday": "Panchami"
+    },
+    {
+      "date": "09-Oct",
+      "holiday": "Durgastami"
+    },
+    {
+      "date": "10-Oct",
+      "holiday": "Navami of Durga Puja"
+    },
+    {
+      "date": "11-Oct",
+      "holiday": "Dussehra"
+    },
+    {
+      "date": "12-Oct",
+      "holiday": "Muharram (10th Day)"
+    },
+    {
+      "date": "15-Oct",
+      "holiday": "Lakshmi Puja"
+    },
+    {
+      "date": "14-Nov",
+      "holiday": "Guru Nanak Birthday"
+    },
+    {
+      "date": "25-Dec",
+      "holiday": "Christmas Day"
+    }
+  ]
+}
